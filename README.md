@@ -1,2 +1,2 @@
-# Fucho
+# Fucho.jl
 Analisis de fut.
